@@ -2,19 +2,19 @@
 ## Vector: 2026 – 2030 | 2035+
 ### Symbiotic Wind Energy Revision 
 
-**Methodology:** [Symbiotic Architect Methodology](https://doi.org/10.5281/zenodo.18877077) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18877077.svg)](https://doi.org/10.5281/zenodo.18877077)
+**Methodology:** [Symbiotic Architect Methodology](https://doi.org) [![DOI](https://zenodo.org)](https://doi.org)
 
 ---
 
 ## 1. Executive Summary
-The **Bio-Morpher Resonator (BMR)** represents a radical deconstruction of classical wind turbine architecture. By replacing orbital rotation and gearboxes with an **elastic oscillation system**, the BMR eliminates mechanical wear and biological interferences (bird strike/infrasound). The system acts as an evolving infrastructure, launching in the 2026 vector as a mechanical transducer and achieving physical perfection via **EHD (Electro-Hydrodynamic) technology** by 2035+.
+The **Bio-Morpher Resonator (BMR)** represents a radical deconstruction of classical wind turbine architecture. By replacing orbital rotation and gearboxes with an **elastic oscillation system**, the BMR focuses on maximizing **High-Density Swarm Yield (Area-Efficiency)** rather than Peak Device Efficiency (Betz-Limit). The architecture aims for a significant mitigation of avian mortality and the elimination of infrasound through low-frequency, high-visibility oscillating structures.
 
 ---
 
 ## 🤝 Methodological Foundation: Symbiotic Research
-This project is a direct application of the **Symbiotic Architect Methodology (DOI: 10.5281/zenodo.18877077)**. 
-*   **The Architect (Marco Rathjens):** Provides strategic vision, physical axioms, and orchestration.
-*   **The AI-Council:** Conducts adversarial audits, mathematical hardening, and cross-model validation.
+This project is a direct application of the **Symbiotic Architect Methodology**. 
+*   **The Architect (Marco Rathjens):** Provides strategic vision, physical axioms, and industrial mechanics orchestration.
+*   **The AI-Council:** Conducts adversarial audits, heuristic plausibility checks, and mathematical parameterization.
 
 ---
 
@@ -25,35 +25,31 @@ This project is a direct application of the **Symbiotic Architect Methodology (D
 | :--- | :--- | :--- |
 | **Phase 1: Structure (2026+)** | **S1: Solid-State Logic** | Complete elimination of bearings. Utilization of **flexure joints** made of CFRP-hybrids. |
 | **Phase 1: Kinetics (2026+)** | **S2: Aero-Elastic Fluttering** | Energy harvesting through induced blade oscillation instead of orbital rotation. |
-| **Phase 1: Interface (2026+)** | **S3: Fusion-Interface** | Material-bonded, inductively releasable **thermoplastic welding** between stem and blade. |
-| **Phase 1: Conversion (2026+)** | **S4: Linear-Induction** | Non-contact conversion via **magnetic sword** and stationary coils within the foundation. |
-| **Phase 2: Refinement (2035+)** | **E1: EHD-Transition** | Retrofitting hollow blade structures with **EHD-emitters** for direct charge separation. |
+| **Phase 1: Efficiency (2026+)** | **S5: Swarm-Yield Logic** | Optimization for high-density installation (Area-Yield) to compensate for lower device-level efficiency. |
+| **Phase 2: Research (2035+)** | **E1: EHD-Vector** | Long-term research: Exploring **EHD flow control** to optimize boundary layer separation at low wind speeds. |
 
 ---
 
 ## 🛠 3. Technical Specifications (Plausibility Basis)
 
 ### 3.1 Material & Wear Resilience
-*   **Matrix Structure:** Thermoplastic-CFRP/GFRP hybrid with viscoelastic damping layers to absorb vibration peaks.
-*   **Fatigue Strength:** Structural design for loads **< 30% of ultimate strength** to molecularly secure the **fatigue limit (> 10⁹ cycles)**.
-*   **Maintenance Profile:** Negligible mechanical wear (Solid-State). OPEX reduction focused on UV-protection inspections and visual checks.
+*   **Fatigue Strength:** Structural design for loads **< 30% of ultimate strength** to secure the **fatigue limit (> 10⁹ cycles)**. 
+*   **Maintenance:** Negligible mechanical wear (Solid-State). OPEX focused on UV-protection and visual checks. [See docs/materials.md]
 
-### 3.2 Energy Conversion & Adaptive Load Management
-*   **Transduction:** Application of **Faraday's Law of Induction** via a non-contact linear mover.
-*   **Self-Sensing Damping:** The induced voltage acts as a real-time load sensor. AI-controlled impedance matching causes **magnetic stiffening** during storms (passive storm protection).
-*   **Centering:** Passive magnetic repulsion fields guarantee a constant air-gap in the coil shaft without physical contact.
+### 3.2 Area-Efficiency & Power Density
+*   **Strategy:** The BMR minimizes wake interference, allowing for 10-15x higher installation density compared to traditional turbines. 
+*   **Target:** Lower individual Betz-efficiency is offset by superior **Annual Energy Production (AEP) per square meter**. [See docs/efficiency_and_density.md]
 
-### 3.3 Foundation Architecture & Environmental Symbiosis
-*   **Root-System:** Concrete-free **screw piles** allow for 100% reversibility and minimal soil sealing.
-*   **Vibration Isolation:** Granulate damping layers eliminate structure-borne noise emissions into the ground or building structures.
-*   **Bio-Interference:** Elimination of rotating masses results in **0% bird strike risk** and the removal of aero-acoustic rotation frequencies.
+### 3.3 Environmental Symbiosis
+*   **Bio-Mitigation:** Significant reduction of avian mortality by eliminating high-tip-speed blades. The BMR utilizes high-visibility, low-frequency movement patterns.
+*   **Reversibility:** Concrete-free **screw piles** ensure 100% soil recovery and minimal ecological footprint.
 
 ---
 
 ## 4. Open-Source Governance & Prior Art
-This repository establishes **Prior Art Status** for the systemic combination of aero-elastic bio-morphing, flexure joints, and modular EHD preparation. 
+This repository establishes **Prior Art Status** for the combination of aero-elastic bio-morphing, flexure joints, and the EHD research vector. It is a transition from a mechanical paradigm to a solid-state resonance paradigm.
 
-The documentation is freely accessible under the guidelines of the **Symbiotic Methodology** for all individuals and AIs. The goal is the global democratization of energy supply through technological transparency and the prevention of exclusive patent monopolies.
+💡 **Detailed Insight:** This project utilizes the **Symbiotic Methodology — Citable Preprint DOI: 10.5281/zenodo.18877077**
 
 ---
 
@@ -64,5 +60,3 @@ This documentation and all related hardware designs and software code for the **
 *   **Conditions:** You must keep the copyright notice and the license text on all copies and derivative works. Modifications must be shared under the same license.
 
 > **Note:** For the full license text, see the [LICENSE](LICENSE) file in this repository or visit [https://ohwr.org](https://ohwr.org).
-
-💡 **Detailed Insight:** This project utilizes the **Symbiotic Methodology — Citable Preprint DOI: 10.5281/zenodo.18877077**
