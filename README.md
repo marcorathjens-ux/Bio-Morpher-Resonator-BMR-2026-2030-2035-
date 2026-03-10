@@ -21,11 +21,12 @@ This project is a direct application of the **Symbiotic Architect Methodology**.
 ## 💎 2. Axiom-Matrix (Core Principles)
 
 
-
 | Cluster | Axiom | Principle / Implementation |
 | :--- | :--- | :--- |
 | **Phase 1: Structure (2026+)** | **S1: Solid-State Logic** | Complete elimination of bearings. Utilization of **flexure joints** made of CFRP-hybrids. |
 | **Phase 1: Kinetics (2026+)** | **S2: Aero-Elastic Fluttering** | Energy harvesting through induced blade oscillation instead of orbital rotation. |
+| **Phase 1: Interface (2026+)** | **S3: Fusion-Interface** | Material-bonded, inductively releasable **thermoplastic welding** between stem and blade. |
+| **Phase 1: Conversion (2026+)** | **S4: Linear-Induction** | Non-contact conversion via **magnetic sword** and stationary coils within the foundation. |
 | **Phase 1: Efficiency (2026+)** | **S5: Swarm-Yield Logic** | Optimization for high-density installation (Area-Yield) to compensate for lower device-level efficiency. |
 | **Phase 2: Research (2035+)** | **E1: EHD-Vector** | Long-term research: Exploring **EHD flow control** to optimize boundary layer separation at low wind speeds. |
 
@@ -35,16 +36,15 @@ This project is a direct application of the **Symbiotic Architect Methodology**.
 
 ### 3.1 Material & Wear Resilience
 *   **Fatigue Strength:** Structural design for loads **< 30% of ultimate strength** to secure the **fatigue limit (> 10⁹ cycles)**. 
-*   **Maintenance:** Negligible mechanical wear (Solid-State). **Projected LCOE reduction target: up to 40%**, primarily driven by the elimination of high-cost maintenance cycles (crane deployment, gearbox replacement) and 100% recyclability. [See docs/materials.md]
+*   **Maintenance:** Negligible mechanical wear (Solid-State). **LCOE reduction target: projected up to 40% (pending full lifecycle analysis)**, driven by the elimination of heavy maintenance (cranes/gearboxes) and 100% recyclability. [See docs/materials.md]
 
 ### 3.2 Area-Efficiency & Power Density
-*   **Strategy:** The BMR minimizes wake interference, allowing for 10-15x higher installation density compared to traditional turbines. 
-*   **Target:** Individual Betz-efficiency is modeled between **6-12%**; however, superior **Annual Energy Production (AEP) per square meter** is achieved through high-density swarm placement. [See docs/efficiency_and_density.md]
+*   **Strategy:** The BMR minimizes wake interference, allowing for 10-15x higher installation density. 
+*   **Swarm Logic:** Individual Betz-efficiency (6-12%) is offset by superior **Annual Energy Production (AEP) per square meter** through massive scaling in dense clusters. [See docs/efficiency_and_density.md]
 
 ### 3.3 Environmental Symbiosis
 *   **Bio-Mitigation:** Significant reduction of avian mortality by eliminating high-tip-speed blades. The BMR utilizes high-visibility, low-frequency movement patterns.
 *   **Reversibility:** Concrete-free **screw piles** ensure 100% soil recovery and minimal ecological footprint.
-
 ---
 
 ## 4. Open-Source Governance & Prior Art
