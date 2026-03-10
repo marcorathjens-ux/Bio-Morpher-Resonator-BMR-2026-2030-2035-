@@ -1,3 +1,32 @@
-Copyright (c) 2024 Marco Rathjens
-This documentation describes the EAB-GENESIS and is licensed under the CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P).
-You may redistribute and modify this documentation and make products using it under the terms of the CERN-OHL-P v2 (ohwr.org). This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+CERN-OHL-S v2
+Copyright (c) 2024 Marco Rathjens / Symbiotic Methodology
+This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
+
+You may redistribute and modify this source and make products using it under the terms of the CERN-OHL-S v2 (https://ohwr.org).
+
+This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
+
+Source location: https://github.com
+
+1. PREAMBLE
+This License governs the use, copying, modification and distribution of Sources and the manufacture and distribution of Products.
+
+2. DEFINITIONS
+"Source" means the information in any form that is used to create or modify a Product.
+"Product" means any tangible object that is described by the Source.
+"Licensee" means any person or entity exercising rights under this License.
+
+3. GRANT OF RIGHTS
+Subject to the terms and conditions of this License, the Licensor grants to the Licensee a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license to use, copy, modify, and distribute the Source and to make and distribute Products.
+
+4. CONDITIONS
+4.1 You must provide a copy of this License with any Source or Product you distribute.
+4.2 If you modify the Source, you must clearly signal the changes.
+4.3 If you distribute modified Sources or Products, they must be licensed under the CERN-OHL-S v2.
+4.4 You must retain all copyright and trademark notices.
+
+5. DISCLAIMER OF WARRANTY
+THE SOURCE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+6. LIMITATION OF LIABILITY
+THE LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE OF THE SOURCE.
