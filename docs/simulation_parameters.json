@@ -1,0 +1,17 @@
+{
+  "project": "Bio-Morpher Resonator (BMR)",
+  "mechanical_target_parameters": {
+    "material_flexure_joint": "CFRP/GFRP-Hybrid (Thermoplastic Matrix)",
+    "youngs_modulus_target_gpa": 70.0,
+    "fatigue_limit_cycle_target": 1.0e9,
+    "max_strain_threshold": 0.003,
+    "strouhal_number_range": "0.18 - 0.22",
+    "reynolds_number_operational": "10^4 - 10^6"
+  },
+  "operational_envelope": {
+    "cut_in_wind_speed_ms": 1.5,
+    "rated_wind_speed_ms": 12.0,
+    "survival_wind_speed_ms": 55.0,
+    "design_oscillation_frequency_hz": "0.5 - 2.5"
+  }
+}
