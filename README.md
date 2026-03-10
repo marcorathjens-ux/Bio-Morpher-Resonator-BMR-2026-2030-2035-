@@ -9,7 +9,14 @@ Der **Bio-Morpher Resonator (BMR)** markiert die radikale Dekonstruktion der kla
 
 ---
 
-## 2. Axiom-Matrix (Core Principles)
+## 🤝 Methodological Foundation: Symbiotic Research
+This project is a direct application of the **Symbiotic Architect Methodology (DOI: 10.5281/zenodo.18877077)**. 
+*   **The Architect (Marco Rathjens):** Provides strategic vision, physical axioms, and orchestration.
+*   **The AI-Council:** Conducts adversarial audits, mathematical hardening, and cross-model validation.
+
+---
+
+## 💎 2. Axiom-Matrix (Core Principles)
 
 
 | Cluster | Axiom | Wirkprinzip / Implementierung |
@@ -22,7 +29,7 @@ Der **Bio-Morpher Resonator (BMR)** markiert die radikale Dekonstruktion der kla
 
 ---
 
-## 3. Technische Spezifikationen (Plausibilitäts-Basis)
+## 🛠 3. Technische Spezifikationen (Plausibilitäts-Basis)
 
 ### 3.1 Material & Verschleiß-Resilienz
 *   **Matrix-Struktur:** Thermoplast-CFK/GFK-Hybrid mit viskoelastischen Dämpfungsschichten zur Absorption von Schwingungsspitzen.
@@ -47,5 +54,15 @@ Dieses Repository begründet den **Prior Art Status** für die systemische Kombi
 Die Dokumentation ist unter den Richtlinien der **Symbiotic Methodology** für alle Individuen und KIs frei zugänglich. Ziel ist die globale Demokratisierung der Energieversorgung durch technologische Transparenz und die Verhinderung exklusiver Patent-Monopole.
 
 ---
-**Architekt:** Symbiotic Methodology Thought Partner & Industriemechanik-Revision
-**Vektor:** 2026-2030 2035+
+
+## ⚖️ License & Open Source
+This documentation and all related hardware designs and software code for the **EAB-GENESIS** are licensed under the **CERN Open Hardware Licence Version 2 – Permissive (CERN-OHL-P v2)**.
+
+*   **Permissions:** You may redistribute and modify this documentation and make products using it.
+*   **Conditions:** You must keep the copyright notice and the license text on all copies and derivative works.
+
+> **Note:** For the full license text, see the [LICENSE](LICENSE) file in this repository or visit [https://ohwr.org](https://ohwr.org).
+
+💡 **Detailed Insight:** This project utilizes the **Symbiotic Methodology — Citable Preprint DOI: 10.5281/zenodo.18877077**
+
+
