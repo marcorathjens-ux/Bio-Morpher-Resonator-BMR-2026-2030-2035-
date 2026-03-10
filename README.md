@@ -2,7 +2,7 @@
 ## Vector: 2026 – 2030 | 2035+
 ### Symbiotic Wind Energy Revision 
 
-**Methodology:** [Symbiotic Architect Methodology](https://doi.org) [![DOI](https://zenodo.org)](https://doi.org)
+**Methodology:** [Symbiotic Architect Methodology][![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18877077.svg)](https://doi.org/10.5281/zenodo.18877077)
 
 ---
 
