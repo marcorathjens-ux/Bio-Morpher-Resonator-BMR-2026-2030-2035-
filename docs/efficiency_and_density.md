@@ -4,12 +4,12 @@
 Classical wind turbines aim for maximum efficiency per unit (~45-50%). However, they require vast spacing (5-7 rotor diameters) to avoid wake turbulence.
 
 ## 2. BMR Swarm Logic (Area Yield)
-The BMR is designed for **High-Packing Density**.
+The BMR is designed for **High-Packing Density**. 
 *   **Low Wake Interference:** Oscillating stems produce minimal wake turbulence compared to rotating blades.
-*   **Installation Density:** 10 to 15 BMR units can occupy the footprint of one traditional turbine.
-*   **Yield Calculation:** 
-    *   Traditional Turbine: $1 \text{ Unit} \times 45\% \text{ Eff.}$
-    *   BMR Swarm: $15 \text{ Units} \times 12\% \text{ Eff.} = 180\% \text{ relative area yield.}$
+*   **Yield Calculation (Sensitivity Analysis):** 
+    *   **Case A (Target):** 15 Units × 12% Eff. = 180% relative area yield compared to 1 traditional turbine.
+    *   **Case B (Conservative):** 15 Units × 6% Eff. = 90% relative area yield.
+*   **Conclusion:** Even at the lower bound of 6% device efficiency, the Swarm-Yield remains competitive due to near-zero OPEX and the logarithmic reduction in land-use requirements compared to traditional turbines.
 
 ## 3. OPEX vs. LCOE
 The BMR prioritizes **Reliability (Availability)** over **Peak Power**. 
