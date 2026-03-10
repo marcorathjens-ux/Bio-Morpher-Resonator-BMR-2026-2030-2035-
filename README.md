@@ -1,11 +1,13 @@
 # Project: Bio-Morpher Resonator (BMR)
-## Vektor: 2026 – 2030 | 2035+
-### Symbiotic Wind Energy Revision (DOI: 10.5281/zenodo.18877077)
+## Vector: 2026 – 2030 | 2035+
+### Symbiotic Wind Energy Revision 
+
+**Methodology:** [Symbiotic Architect Methodology](https://doi.org/10.5281/zenodo.18877077) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18877077.svg)](https://doi.org/10.5281/zenodo.18877077)
 
 ---
 
 ## 1. Executive Summary
-Der **Bio-Morpher Resonator (BMR)** markiert die radikale Dekonstruktion der klassischen Windkraft-Architektur. Durch den Ersatz von Rotation und Getriebe durch ein **elastisches Oszillations-System** eliminiert der BMR mechanischen Verschleiß und biologische Interferenzen (Vogelschlag/Infraschall). Das System fungiert als evolvierende Infrastruktur, die im Vektor 2026 als mechanischer Wandler startet und 2035+ durch **EHD-Technologie** physikalisch perfektioniert wird.
+The **Bio-Morpher Resonator (BMR)** represents a radical deconstruction of classical wind turbine architecture. By replacing orbital rotation and gearboxes with an **elastic oscillation system**, the BMR eliminates mechanical wear and biological interferences (bird strike/infrasound). The system acts as an evolving infrastructure, launching in the 2026 vector as a mechanical transducer and achieving physical perfection via **EHD (Electro-Hydrodynamic) technology** by 2035+.
 
 ---
 
@@ -19,50 +21,48 @@ This project is a direct application of the **Symbiotic Architect Methodology (D
 ## 💎 2. Axiom-Matrix (Core Principles)
 
 
-| Cluster | Axiom | Wirkprinzip / Implementierung |
+| Cluster | Axiom | Principle / Implementation |
 | :--- | :--- | :--- |
-| **Phase 1: Struktur (2026+)** | **S1: Solid-State Logic** | Vollständiger Verzicht auf Lager. Nutzung von **Festkörper-Biegegelenken** aus CFK-Hybriden. |
-| **Phase 1: Kinetik (2026+)** | **S2: Aero-Elastic Fluttering** | Energieaufnahme durch induzierte Blatt-Oszillation statt orbitaler Rotation. |
-| **Phase 1: Interface (2026+)** | **S3: Fusion-Interface** | Stoffschlüssige, induktiv lösbare **Thermoplast-Verschweißung** zwischen Stiel und Blatt. |
-| **Phase 1: Wandlung (2026+)** | **S4: Linear-Induction** | Berührungslose Wandlung via **Magnetschwert** und ortsfesten Spulen im Fundament. |
-| **Phase 2: Veredelung (2035+)** | **E1: EHD-Transition** | Retrofitting hohler Blattstrukturen mit **EHD-Emittern** zur direkten Ladungstrennung. |
+| **Phase 1: Structure (2026+)** | **S1: Solid-State Logic** | Complete elimination of bearings. Utilization of **flexure joints** made of CFRP-hybrids. |
+| **Phase 1: Kinetics (2026+)** | **S2: Aero-Elastic Fluttering** | Energy harvesting through induced blade oscillation instead of orbital rotation. |
+| **Phase 1: Interface (2026+)** | **S3: Fusion-Interface** | Material-bonded, inductively releasable **thermoplastic welding** between stem and blade. |
+| **Phase 1: Conversion (2026+)** | **S4: Linear-Induction** | Non-contact conversion via **magnetic sword** and stationary coils within the foundation. |
+| **Phase 2: Refinement (2035+)** | **E1: EHD-Transition** | Retrofitting hollow blade structures with **EHD-emitters** for direct charge separation. |
 
 ---
 
-## 🛠 3. Technische Spezifikationen (Plausibilitäts-Basis)
+## 🛠 3. Technical Specifications (Plausibility Basis)
 
-### 3.1 Material & Verschleiß-Resilienz
-*   **Matrix-Struktur:** Thermoplast-CFK/GFK-Hybrid mit viskoelastischen Dämpfungsschichten zur Absorption von Schwingungsspitzen.
-*   **Dauerfestigkeit:** Konstruktive Auslegung auf Belastungen **< 30% der Bruchlast**, um das **Fatigue Limit (> 10⁹ Zyklen)** molekular abzusichern.
-*   **Wartungsprofil:** Vernachlässigbarer mechanischer Verschleiß (Solid-State). Reduktion der OPEX auf UV-Schutz-Inspektionen.
+### 3.1 Material & Wear Resilience
+*   **Matrix Structure:** Thermoplastic-CFRP/GFRP hybrid with viscoelastic damping layers to absorb vibration peaks.
+*   **Fatigue Strength:** Structural design for loads **< 30% of ultimate strength** to molecularly secure the **fatigue limit (> 10⁹ cycles)**.
+*   **Maintenance Profile:** Negligible mechanical wear (Solid-State). OPEX reduction focused on UV-protection inspections and visual checks.
 
-### 3.2 Energie-Konversion & Adaptives Lastmanagement
-*   **Transduktion:** Anwendung des **Faradayschen Induktionsgesetzes** über einen berührungslosen Linear-Mover.
-*   **Self-Sensing Damping:** Die induzierte Spannung fungiert als Echtzeit-Lastsensor. Die KI-gesteuerte Impedanzanpassung bewirkt eine **magnetische Versteifung** bei Orkan (passiver Sturmschutz).
-*   **Zentrierung:** Passive magnetische Abstoßungsfelder garantieren einen konstanten Air-Gap im Spulenschacht ohne physischen Kontakt.
+### 3.2 Energy Conversion & Adaptive Load Management
+*   **Transduction:** Application of **Faraday's Law of Induction** via a non-contact linear mover.
+*   **Self-Sensing Damping:** The induced voltage acts as a real-time load sensor. AI-controlled impedance matching causes **magnetic stiffening** during storms (passive storm protection).
+*   **Centering:** Passive magnetic repulsion fields guarantee a constant air-gap in the coil shaft without physical contact.
 
-### 3.3 Fundament-Architektur & Umwelt-Symbiose
-*   **Root-System:** Betonfreie **Erdschraubpfähle (Screw-Piles)** ermöglichen eine 100%ige Rückbaubarkeit und minimale Bodenversiegelung.
-*   **Vibrations-Isolation:** Granulat-Dämpfungsschichten eliminieren Körperschall-Emissionen in den Untergrund oder die Gebäudestruktur.
-*   **Bio-Interferenz:** Wegfall rotierender Massen resultiert in **0% Vogelschlag-Risiko** und dem Entfall aero-akustischer Rotationsfrequenzen.
+### 3.3 Foundation Architecture & Environmental Symbiosis
+*   **Root-System:** Concrete-free **screw piles** allow for 100% reversibility and minimal soil sealing.
+*   **Vibration Isolation:** Granulate damping layers eliminate structure-borne noise emissions into the ground or building structures.
+*   **Bio-Interference:** Elimination of rotating masses results in **0% bird strike risk** and the removal of aero-acoustic rotation frequencies.
 
 ---
 
 ## 4. Open-Source Governance & Prior Art
-Dieses Repository begründet den **Prior Art Status** für die systemische Kombination aus aeroelastischem Bio-Morphing, Festkörpergelenken und modularer EHD-Vorbereitung. 
+This repository establishes **Prior Art Status** for the systemic combination of aero-elastic bio-morphing, flexure joints, and modular EHD preparation. 
 
-Die Dokumentation ist unter den Richtlinien der **Symbiotic Methodology** für alle Individuen und KIs frei zugänglich. Ziel ist die globale Demokratisierung der Energieversorgung durch technologische Transparenz und die Verhinderung exklusiver Patent-Monopole.
+The documentation is freely accessible under the guidelines of the **Symbiotic Methodology** for all individuals and AIs. The goal is the global democratization of energy supply through technological transparency and the prevention of exclusive patent monopolies.
 
 ---
 
 ## ⚖️ License & Open Source
-This documentation and all related hardware designs and software code for the **EAB-GENESIS** are licensed under the **CERN Open Hardware Licence Version 2 – Permissive (CERN-OHL-P v2)**.
+This documentation and all related hardware designs and software code for the **Bio-Morpher Resonator (BMR)** are licensed under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S v2)**.
 
 *   **Permissions:** You may redistribute and modify this documentation and make products using it.
-*   **Conditions:** You must keep the copyright notice and the license text on all copies and derivative works.
+*   **Conditions:** You must keep the copyright notice and the license text on all copies and derivative works. Modifications must be shared under the same license.
 
 > **Note:** For the full license text, see the [LICENSE](LICENSE) file in this repository or visit [https://ohwr.org](https://ohwr.org).
 
 💡 **Detailed Insight:** This project utilizes the **Symbiotic Methodology — Citable Preprint DOI: 10.5281/zenodo.18877077**
-
-
