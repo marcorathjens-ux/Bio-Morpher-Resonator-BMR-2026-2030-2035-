@@ -2,7 +2,7 @@
 ## Vector: 2026 – 2030 | 2035+
 ### Symbiotic Wind Energy Revision 
 
-**Methodology:** [Symbiotic Architect Methodology][![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18877077.svg)](https://doi.org/10.5281/zenodo.18877077)
+**Methodology:** [Symbiotic Architect Methodology](https://doi.org/10.5281/zenodo.18877077) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18877077.svg)](https://doi.org/10.5281/zenodo.18877077)
 
 ---
 
@@ -21,6 +21,7 @@ This project is a direct application of the **Symbiotic Architect Methodology**.
 ## 💎 2. Axiom-Matrix (Core Principles)
 
 
+
 | Cluster | Axiom | Principle / Implementation |
 | :--- | :--- | :--- |
 | **Phase 1: Structure (2026+)** | **S1: Solid-State Logic** | Complete elimination of bearings. Utilization of **flexure joints** made of CFRP-hybrids. |
@@ -34,11 +35,11 @@ This project is a direct application of the **Symbiotic Architect Methodology**.
 
 ### 3.1 Material & Wear Resilience
 *   **Fatigue Strength:** Structural design for loads **< 30% of ultimate strength** to secure the **fatigue limit (> 10⁹ cycles)**. 
-*   **Maintenance:** Negligible mechanical wear (Solid-State). OPEX focused on UV-protection and visual checks. [See docs/materials.md]
+*   **Maintenance:** Negligible mechanical wear (Solid-State). **Projected LCOE reduction target: up to 40%**, primarily driven by the elimination of high-cost maintenance cycles (crane deployment, gearbox replacement) and 100% recyclability. [See docs/materials.md]
 
 ### 3.2 Area-Efficiency & Power Density
 *   **Strategy:** The BMR minimizes wake interference, allowing for 10-15x higher installation density compared to traditional turbines. 
-*   **Target:** Lower individual Betz-efficiency is offset by superior **Annual Energy Production (AEP) per square meter**. [See docs/efficiency_and_density.md]
+*   **Target:** Individual Betz-efficiency is modeled between **6-12%**; however, superior **Annual Energy Production (AEP) per square meter** is achieved through high-density swarm placement. [See docs/efficiency_and_density.md]
 
 ### 3.3 Environmental Symbiosis
 *   **Bio-Mitigation:** Significant reduction of avian mortality by eliminating high-tip-speed blades. The BMR utilizes high-visibility, low-frequency movement patterns.
