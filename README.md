@@ -53,6 +53,15 @@ This repository establishes **Prior Art Status** for the combination of aero-ela
 
 ---
 
+## 🏛 5. Innovation Framework & Responsibility Matrix
+The **Bio-Morpher Resonator (BMR)** is provided exclusively as an innovative architectural concept on a theoretical basis. 
+
+*   **The Approach:** We provide the strategic vision, physical axioms, and systemic logic. Our goal is the honest transfer of innovation into public discourse.
+*   **Implementation Liability:** Responsibility for physical implementation, detailed engineering, prototyping, material testing, and final certification lies solely with the executing individuals or companies.
+*   **Theoretical Foundation:** All assumptions made herein serve as a basis for discussion and design parameters. They do not replace site-specific engineering audits, structural calculations, or legally required certifications.
+
+---
+
 ## ⚖️ License & Open Source
 This documentation and all related hardware designs and software code for the **Bio-Morpher Resonator (BMR)** are licensed under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S v2)**.
 
