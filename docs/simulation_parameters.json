@@ -1,6 +1,7 @@
 {
   "status": "Target parameters for CFD/FEM validation - Subject to iterative refinement",
   "project": "Bio-Morpher Resonator (BMR)",
+  "audit_note": "Cut-in wind speed revised from 1.5 m/s to 2.5 m/s following adversarial audit. Oscillating systems require minimum airflow to initiate LCO (Limit-Cycle Oscillation) — zero-breakout-torque argument applies to rotating systems only. 1.5 m/s remains a long-term Vector 2035+ target pending EHD integration.",
   "mechanical_target_parameters": {
     "material_flexure_joint": "CFRP/GFRP-Hybrid (Thermoplastic Matrix)",
     "youngs_modulus_target_gpa": 70.0,
@@ -10,8 +11,9 @@
     "reynolds_number_operational": "10^4 - 10^6"
   },
   "operational_envelope": {
-    "cut_in_wind_speed_ms": 1.5,
-    "cut_in_logic": "Zero-breakout torque due to absence of mechanical bearings and gears (Axiom S1). Low-friction startup enabled by Zero-Impedance electronic control (Axiom T2.1).",
+    "cut_in_wind_speed_ms": 2.5,
+    "cut_in_wind_speed_ms_note": "Revised from 1.5 m/s. Minimum airflow required to initiate LCO in oscillating structures. 1.5 m/s is a Vector 2035+ target pending EHD-assisted flow control (Axiom E1).",
+    "cut_in_logic": "Low-friction startup enabled by Zero-Impedance electronic control (Axiom T2.1). No mechanical breakout torque due to absence of bearings (Axiom S1). LCO initiation threshold dependent on blade geometry and Strouhal resonance.",
     "rated_wind_speed_ms": 12.0,
     "survival_wind_speed_ms": 55.0,
     "design_oscillation_frequency_hz": "0.5 - 2.5"
